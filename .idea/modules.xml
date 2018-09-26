@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/struts6/struts6.iml" filepath="$PROJECT_DIR$/struts6/struts6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SHH/struts8/struts8.iml" filepath="$PROJECT_DIR$/SHH/struts8/struts8.iml" />
     </modules>
   </component>
 </project>
